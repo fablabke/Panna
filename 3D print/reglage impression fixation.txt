@@ -1,0 +1,5 @@
+filament PLA
+température 220°
+nozzle 0.6mm
+hauteur couche 0.3mm
+vitesse impression parois 22,5mm > tester 30mm 
