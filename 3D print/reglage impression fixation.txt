@@ -2,4 +2,4 @@ filament PLA
 température 220°
 nozzle 0.6mm
 hauteur couche 0.3mm
-vitesse impression 45mm > tester 60mm 
+vitesse impression 60mm 
